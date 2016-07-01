@@ -1,5 +1,6 @@
 # Graphmapper (Demo) - 2D floor plan mapping for indoor navigation graph network
 
+PlayStore: https://play.google.com/store/apps/details?id=com.projecttango.unibw.graphmapper
 Note: You need a Tango enabled device to run this application.
 
 Accuracy of the measurements (more detailed information is coming soon):
