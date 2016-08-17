@@ -4,6 +4,8 @@ PlayStore: https://play.google.com/store/apps/details?id=com.projecttango.unibw.
 
 YouTube:   https://youtu.be/QVfo-_gM7gA
 
+This project is part of the Master Thesis "Indoor Navigation with mobile devices". You can find it above.
+
 Note: You need a Tango enabled device to run this application.
 
 Accuracy of the measurements (more detailed information is coming soon):
